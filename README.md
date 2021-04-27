@@ -22,6 +22,7 @@ This repositories was made for our project called "SAHARA". We'll work, edit, up
 
 | Date | Collaborator | Changes |
 | ---- | ------------ | ------- |
+| 27-03-2021 | Reyhan Aditya | Dismissed the repository due to unsupported features |
 | 27-03-2021 | Reyhan Aditya | Uploaded "SAHARA" Folder [Laravel] |
 
 -------------------------------------------------------------------------------
